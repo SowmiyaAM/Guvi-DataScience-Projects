@@ -1,4 +1,12 @@
 # Guvi-DataScience-Projects
+## Python Packages Used :
+ - Data Extraction : MySQL-Connector-Python, PyMongo, JSON, CSV, XLRD, OS
+ - Data Cleaning and Processing : Pandas, NumPy 
+ - Data Visualization : Matplotlib, Seaborn, Plotly, Dash
+ - Statistics & Hypothesis Testing : Statsmodel, Scikit, SciPy
+ - Machine Learning : Sklearn, NLTK
+
+## Projects Done :
 ## [1. YouTube Data Harvesting and Warehousing](https://github.com/SowmiyaAM/Guvi-DataScience-Projects/tree/d4c08e79193e2f5e257e5d8f187f2b45a32113f0/Youtube%20Data%20Harvesting%20and%20Warehousing)
   - Youtube Data API Integration
   - Data Storage in No SQL Database - MongoDB
