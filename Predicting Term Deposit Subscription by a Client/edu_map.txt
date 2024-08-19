@@ -1,0 +1,8 @@
+{
+    "middle school": 11606,
+    "university degree": 11297,
+    "high school": 8815,
+    "professional course": 4888,
+    "unknown": 1603,
+    "illiterate": 16
+}

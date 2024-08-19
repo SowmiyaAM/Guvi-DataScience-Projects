@@ -1,0 +1,14 @@
+{
+    "admin": 9708,
+    "blue-collar": 8565,
+    "technician": 6274,
+    "services": 3672,
+    "management": 2702,
+    "retired": 1599,
+    "entrepreneur": 1345,
+    "self-employed": 1302,
+    "housemaid": 991,
+    "unemployed": 954,
+    "student": 803,
+    "unknown": 310
+}
