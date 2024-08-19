@@ -1,5 +1,5 @@
 # Guvi-DataScience-Projects
-(Click the title link to view project demo recordings)
+(Click the project title link to view demo recordings)
 ## Python Packages Used :
  - Data Extraction : MySQL-Connector-Python, PyMongo, JSON, CSV, XLRD, OS
  - Data Cleaning and Processing : Pandas, NumPy 
